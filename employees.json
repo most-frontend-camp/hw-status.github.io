@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Dasha",
+    "isWorkDone": true
+  },
+  {
+    "name": "Ruslan",
+    "isWorkDone": true
+  },
+  {
+    "name": "Aidana",
+    "isWorkDone": false
+  }
+]
